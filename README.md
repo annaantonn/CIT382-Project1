@@ -1,1 +1,2 @@
 # CIT382-Project1
+The final deliverable will be a web application using React built within CodeSandbox. The webapp will prompt for prompt for data using HTML controls, and use a button to save the entered data. Once saved, the data is added to an array, and displayed as a list of all of the saved data. If no data has been saved, then the webapp will display text indicating that no data is available to be displayed.
